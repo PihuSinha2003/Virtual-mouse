@@ -1,6 +1,3 @@
-
-Here’s a more professional version of your README.md without emojis, focusing on details:
-
 Virtual Mouse Using Hand Gesture Recognition
 This project implements a virtual mouse controlled by hand gestures. Using libraries such as OpenCV, MediaPipe, and Pynput, it enables users to perform mouse actions like movement, left-click, right-click, double-click, and screenshot capture based on predefined hand gestures.
 
